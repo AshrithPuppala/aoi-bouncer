@@ -1,0 +1,4 @@
+# local only (building the release); NOT used by Vercel
+torch
+numpy
+pillow
